@@ -3,8 +3,8 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:33357",
-      "sslPort": 44356
+      "applicationUrl": "http://localhost:34154",
+      "sslPort": 44330
     }
   },
   "profiles": {
@@ -15,13 +15,13 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "ASP.NETCoreWebApplication3": {
+    "VersoReactMac": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:3000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+      },
+      "applicationUrl": "https://localhost:3000"
     }
   }
 }
